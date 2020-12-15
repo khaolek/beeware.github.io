@@ -69,6 +69,11 @@ name = Polish
 url_prefix = /pl_PL/
 locale = pl_PL
 
+[alternatives.th]
+name = Thai
+url_prefix = /th_TH/
+locale = th_TH
+
 [packages]
 lektor-rst = 0.2.0
 lektor-github-repos = 0.1.1
